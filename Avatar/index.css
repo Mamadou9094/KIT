@@ -1,0 +1,23 @@
+.jam{
+   border-radius: 50%; 
+   height: 60px;
+   width: 60px;
+}
+.sadio{
+    border-radius: 50%; 
+   height: 80px;
+   width: 80px;
+}
+.cheikh{
+    padding: 3px;
+    border: 1px solid lightgray;
+    border-radius: 50%;
+    height: 60px;
+   width: 60px;
+}
+.garmi{
+    border: 1px solid lightgray;
+    height: 60px;
+    width: 60px;
+    padding: 3px;
+}
